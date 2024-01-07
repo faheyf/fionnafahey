@@ -1,13 +1,17 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: about
+description: 
+feature_image: images/BW headshot.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I am a Ph.D. student of Anthropology at [Purdue University](https://www.cla.purdue.edu/academic/anthropology/) (West Lafayette, Indiana, United States). My work uses critical feminist and science and technology studies (STS) lenses to study seeds, intergenerational health, and social justice. During my doctoral studies, I focus on seed preservation and plant breeding in the United States. Seeds offer critical pathways to understanding biodiversity, climate change, and food access; because, although these are collective issues, they disparately harm the food systems and health of marginalized communities. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+My research approach emerged from my background in community food advocacy, dedication to justice, and applied focus. I received my Master’s in Public Policy and Bachelor's in Interdisciplinary Studies, from Cal Poly, San Luis Obispo. At Cal poly, I r
+
+
+I became committed to use qualitative applied methodologies to center those most impacted by food insecurity and structural violence to affect social and policy change. 
+
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
