@@ -15,7 +15,7 @@ title: "Fionna Fahey"
 description: "Applied Environmental Anthropology Student at Purdue University"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://fionnafahey.github.io"
@@ -47,8 +47,8 @@ accent_color: '#BC9EC1'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+  content: "&copy; 2024 Fionna Fahey. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  
 
 # Plugins
 plugins:
